@@ -1,0 +1,20 @@
+.number {
+    background-color: #ff000080;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.number.three {
+    font-size: 36px;
+}
+
+#num2 {
+    color: blue;
+    font-size: 54px
+}
+
+#num4 {
+    background-color: rgb(5, 202, 5);
+    font-size: 36px;
+    font-weight: 700;
+}
