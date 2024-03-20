@@ -1,13 +1,14 @@
-.button {
+.black,
+.yellow {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-.button.yellow {
+.yellow {
     background-color: yellow;
 }
 
-.button.black {
+.black {
     background-color: black;
     color: white;
 }
